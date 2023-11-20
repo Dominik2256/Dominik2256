@@ -1,3 +1,4 @@
+[![MasterHead](https://images.app.goo.gl/WM8WeXvgmU5AHRtUA)
 <h1 align="center">Hi 👋, I'm Dominik Pałac</h1>
 <h3 align="center">I am a first-year computer science student.</h3>
 
