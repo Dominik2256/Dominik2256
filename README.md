@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python based web application**
 
-- 🌱 I’m currently learning **Python, C/C++**
+- 🌱 I’m currently learning **Python, C/C++/C#**
 
 - 📫 How to reach me **dominikpaac@gmail.com**
 
