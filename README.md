@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/WM8WeXvgmU5AHRtUA)
+[![MasterHead](https://www.deviantart.com/darkfigure4/art/Profile-Banner-870148327)
 <h1 align="center">Hi 👋, I'm Dominik Pałac</h1>
 <h3 align="center">I am a first-year computer science student.</h3>
 
