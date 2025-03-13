@@ -23,6 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominik2256&show_icons=true&theme=dracula&text_color=ffffff&bg_color=ffdeb8&locale=en&layout=compact" alt="dominik2256" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominik2256&show_icons=true&theme=dracula&text_color=ffffff&bg_color=ffdeb8&locale=en" alt="dominik2256" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dominik2256&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/></p>
 </center>
