@@ -4,17 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominik2256&label=Profile%20views&color=0e75b6&style=flat" alt="dominik2256" /> </p>
 
-- 🔭 I’m currently working on **Python based web application**
-
-- 🌱 I’m currently learning **Python, C/C++/C#**
-
-- 📫 How to reach me **dominikpaac@gmail.com  << Best** 
+- 📫 How to reach me **dominikpaac@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/dominik2256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dominik2256" height="30" width="40" /></a> -->
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/dominik-pa%c5%82ac-20138726b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominik-pa%c5%82ac-20138726b/" height="30" width="40" /></a> -->
-<a href="https://stackoverflow.com/users/20068318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20068318" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/20068318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20068318" height="30" width="40" /></a> -->
 </p>
 <center>
 <h3 align="left">Languages and Tools:</h3>
